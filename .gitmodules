@@ -1,0 +1,6 @@
+[submodule "backend"]
+	path = backend
+	url = https://github.com/Eytes/WishlistServiceBackend.git
+[submodule "telegram_bot"]
+	path = telegram_bot
+	url = https://github.com/Eytes/WishlistServiceTelegramBot.git
